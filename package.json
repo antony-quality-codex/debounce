@@ -1,0 +1,28 @@
+{
+  "name": "@quality-codex/debounce",
+  "version": "0.1.0",
+  "description": "Debounce library related to other components",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antony-quality-codex/debounce.git"
+  },
+  "keywords": [
+    "debounce"
+  ],
+  "author": "Antony Lemmens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antony-quality-codex/debounce/issues"
+  },
+  "homepage": "https://github.com/antony-quality-codex/debounce#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
